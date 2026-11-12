@@ -11,7 +11,7 @@ and stoppable.
 
 ## What I operate
 
-- **AI voice receptionist** — answers a business phone line bilingually
+- **Luna, an AI voice receptionist** — answers a business phone line bilingually
   (English/Spanish), checks a live calendar, and books appointments under
   strict guardrails, with a human approval gate on anything that changes
   an existing booking.
@@ -19,11 +19,11 @@ and stoppable.
   rules as the voice agent, with confirmed bookings treated as final.
 - **Lead follow-up automation** — timed, supervised outreach sequences
   with human-controlled start/stop.
-- **Authorized security-testing platform** — a scoped, approval-gated
-  penetration-testing system for clients who sign written authorization
-  (see the case study).
-- **Website monitoring** — automated uptime and change monitoring with
-  alerting designed to never silently fail.
+- **STARBREACH, an authorized security-testing platform** — a scoped,
+  approval-gated penetration-testing system for clients who sign written
+  authorization (see the case study).
+- **Watchtower website monitoring** — automated uptime and change
+  monitoring with alerting designed to never silently fail.
 
 ## How I run agents
 
